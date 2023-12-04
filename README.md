@@ -1,12 +1,32 @@
-# <a href="https://www.Wordpress-RockStar.com" target="_blank">My Personal Website</a>
+# <a href="https://www.Wordpress-RockStar.com" target="_blank">John Rajan-WordPress RockStar!</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.Wordpress-RockStar.com)
 [![Author](https://img.shields.io/badge/Author-John%20Rajan%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20March%202022-yellow.svg)](https://github.com/AVS1508/AVS1508.github.io/commit/master)
 
- <p align="justify">This website serves as an online résumé and displays my web presence, story, work experience, education, projects, achievements, and contact information. It was created using ReactJS, Bootstrap, and CSS.</p>
+ <p align="justify">
+ I am an Experienced Senior WordPress Developer.<br> I have more than 🏆6+ years of solid experience🏆 in WordPress Development, 
+I'm capable of transforming your idea into a fully secured, SEO friendly, responsive and interactive WordPress website.
 
-![Personal Résume Website](https://raw.githubusercontent.com/AVS1508/AVS1508.github.io/main/website-display.webp)
+My services:<br>
+🚀  Engaging online-shop | Crafting Pixel-perfect Experiences | Turning Designs into Experiences |  For Both Web and Mobile! 🎨<br>
+🎉  Stunning landing page | Customized theme/plugin | HTML, CSS, JS ✨<br>
+🌟  High-quality Product | High-reliance | Making your Site Beautiful and Useful | High-speed development💡<br>
+
+I'm well-versed in:<br>
+👉 Designing Tools:- Figma, Adobe XD, Sketch, Photoshop, Illustrator<br>
+👉 CMS:- WordPress, WIX, Squarespace, Webflow, Shopify, HubSpot, Craft CMS, etc.<br>
+👉 Landing pages:- Unbounce, Leadpages, ClickFunnels, Instapage, etc.<br>
+👉WordPress Builders:- Elementor Pro, DIVI, Gutenberg, Thrive, Oxygen Builder, Beaver Builder, WPBakery Page Builder, and Advance Custom Field<br>
+👉 WordPress Plugin:- Gravity Forms, Contact Form 7, WPML, Weglot, WooCommerce, Yoast SEO, SeedProd, WP Rocket, etc.<br>
+👉Themes:- Avada, Astra, Salient, BeTheme, Flatsome, Uncode, Bridge, X Theme, Enfold, Jupiter, Genesis Framework
+ </p>
+
+<p align="center">
+  <img width="" height="" src="./intro (1).jpg">
+  <img width="" height="" src="./intro (2).jpg">
+</p>
+</p>
 
 Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
