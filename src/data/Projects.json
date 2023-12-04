@@ -1,63 +1,55 @@
 [
   {
     "title": "Project1",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
+    "content": null,
     "gitHubUrl": null,
     "liveUrl": "https://bdswebhost.com/",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project2",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "https://www.gomingle.nl/",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project3",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "http://www.albinotonnina.com/",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project4",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "https://www.therecruitmentcompany.com/",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project5",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "https://clicks.com.au/",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project6",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "https://www.roberthalf.com/au/en/locations/sydney/1-martin-place",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project7",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "https://www.hays.com.au/",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project8",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "https://www.remoteflyer.com/",
     "techStack": ["React", "NestJS", "MySQL"]
   },
   {
     "title": "Project9",
-    "content": "Job referral portal designed and engineered by a team of 11 members using Scrum methodology.",
     "gitHubUrl": null,
     "liveUrl": "https://www.neurosurgical.tv/",
     "techStack": ["React", "NestJS", "MySQL"]

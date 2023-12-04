@@ -6,7 +6,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-3%20December%202023-yellow.svg)](https://github.com/johnrajan95908/)
 
  <p align="justify">
- I am an Experienced Senior WordPress Developer.<br> I have more than 🏆4+ years of solid experience🏆 in WordPress Development, 
+ I am an Experienced Senior WordPress Developer.<br> I have more than 🏆6+ years of solid experience🏆 in WordPress Development, 
 I'm capable of transforming your idea into a fully secured, SEO friendly, responsive and interactive WordPress website.
 
 My services:<br>
