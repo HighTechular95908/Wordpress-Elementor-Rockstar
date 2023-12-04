@@ -1,9 +1,9 @@
 # <a href="https://www.Wordpress-RockStar.com" target="_blank">John Rajan-WordPress RockStar!</a>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/AVS1508.github.io/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://www.Wordpress-RockStar.com)
-[![Author](https://img.shields.io/badge/Author-John%20Rajan%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-24%20March%202022-yellow.svg)](https://github.com/AVS1508/AVS1508.github.io/commit/master)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/johnrajan95908/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/johnrajan95908/)
+[![Author](https://img.shields.io/badge/Author-John%20Rajan-blue.svg)](https://github.com/johnrajan95908/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-3%20December%202023-yellow.svg)](https://github.com/johnrajan95908/)
 
  <p align="justify">
  I am an Experienced Senior WordPress Developer.<br> I have more than 🏆6+ years of solid experience🏆 in WordPress Development, 
@@ -29,4 +29,4 @@ I'm well-versed in:<br>
 </p>
 </p>
 
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+Please hit me up at johnrajan@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
