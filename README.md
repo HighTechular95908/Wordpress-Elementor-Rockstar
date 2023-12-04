@@ -1,12 +1,12 @@
 # <a href="https://www.Wordpress-RockStar.com" target="_blank">John Rajan-WordPress RockStar!</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/johnrajan95908/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/johnrajan95908/)
-[![Author](https://img.shields.io/badge/Author-John%20Rajan-blue.svg)](https://github.com/johnrajan95908/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://wordpress-rockstar.vercel.app/)
+[![Author](https://img.shields.io/badge/Author-John%20Rajan-blue.svg)](https://www.linkedin.com/in/johnrajan95908/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-3%20December%202023-yellow.svg)](https://github.com/johnrajan95908/)
 
  <p align="justify">
- I am an Experienced Senior WordPress Developer.<br> I have more than 🏆6+ years of solid experience🏆 in WordPress Development, 
+ I am an Experienced Senior WordPress Developer.<br> I have more than 🏆4+ years of solid experience🏆 in WordPress Development, 
 I'm capable of transforming your idea into a fully secured, SEO friendly, responsive and interactive WordPress website.
 
 My services:<br>
