@@ -1,6 +1,7 @@
 import React, { useState, Suspense, lazy } from "react";
 import { NavigationBar } from "./components";
 import Loader from "./components/Loader/Loader";
+import Certificate from "./pages/Certificate/Certificate";
 
 const Home = lazy(() => import("./pages/Home/Home"));
 const Projects = lazy(() => import("./pages/Projects/Projects"));
@@ -22,6 +23,8 @@ const App = () => {
         return <Experience />;
       case "involvements":
         return <Involvements />;
+      case "certificate":
+        return <Certificate />;
       case "achievements":
         return <Achievements />;
       default:

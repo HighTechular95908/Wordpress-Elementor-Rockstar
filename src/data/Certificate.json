@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Project1",
+    "content": null,
+    "gitHubUrl": null,
+    "liveUrl": "https://bdswebhost.com/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project2",
+    "gitHubUrl": null,
+    "liveUrl": "https://www.gomingle.nl/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project3",
+    "gitHubUrl": null,
+    "liveUrl": "http://www.albinotonnina.com/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project4",
+    "gitHubUrl": null,
+    "liveUrl": "https://www.therecruitmentcompany.com/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project5",
+    "gitHubUrl": null,
+    "liveUrl": "https://clicks.com.au/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project6",
+    "gitHubUrl": null,
+    "liveUrl": "https://www.roberthalf.com/au/en/locations/sydney/1-martin-place",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project7",
+    "gitHubUrl": null,
+    "liveUrl": "https://www.hays.com.au/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project8",
+    "gitHubUrl": null,
+    "liveUrl": "https://www.remoteflyer.com/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  },
+  {
+    "title": "Project9",
+    "gitHubUrl": null,
+    "liveUrl": "https://www.neurosurgical.tv/",
+    "techStack": ["React", "NestJS", "MySQL"]
+  }
+  
+]

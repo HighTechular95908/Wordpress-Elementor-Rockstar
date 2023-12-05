@@ -70,6 +70,16 @@ const NavigationBar = (props) => {
               Involvements
             </Nav.Link>
             {/* <Nav.Link
+              eventKey="certificate"
+              className={
+                props.currentTab === "certificate"
+                  ? styles.activeLink
+                  : styles.inactiveLink
+              }
+            >
+              certificate
+            </Nav.Link>
+            <Nav.Link
               eventKey="achievements"
               className={
                 props.currentTab === "achievements"
